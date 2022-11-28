@@ -9,7 +9,8 @@ Para poder usarla necesitamos una aplicación de manejo de apis, como insomnia, 
 Luego allí, vamos a ir haciendo peticiones seguido de http://localhost:3000/
 Todas las rutas están en 'app.js', y sustituiremos los valores por los que querramos buscar, por ejemplo:
 
-La ruta base es la siguiente y yo sustituyo el valor...
+La ruta base para buscar estudiantes por orientación es la siguiente y yo sustituyo el valor...
+
 http://localhost:3000/api/estudiantes/orientacion/:valor
 
 http://localhost:3000/api/estudiantes/orientacion/Ingeniería
